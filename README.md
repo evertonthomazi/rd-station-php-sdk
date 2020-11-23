@@ -9,7 +9,7 @@ Como não tenho nenhuma conta na RD Station, essa SDK nunca foi testada em produ
 
 ## Instalação
 
-    composer require composer require anthraxisbr/rd-php-sdk
+    composer require anthraxisbr/rd-php-sdk
 
 ## Configuração
 
